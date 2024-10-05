@@ -1,5 +1,9 @@
 # zmp-blank-templates
 
+WARNING: This blank template for vite 5 is currently not working!
+
+> Error: Invalid jsx: "automatic" (valid: transform, preserve)
+
 ## ZMP CLI Options
 
 ZMP app created with following options:
